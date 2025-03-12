@@ -29,6 +29,9 @@ http://tg3.fish2018.ip-ddns.com
 http://tg.fish2018.us.kg
 ```
 
+## 相关接口
+[真心接口](https://github.com/fish2018/ZX) 参考这个项目
+
 ## TG搜索相关教程
 
 [centos7.6部署TG搜索服务](https://github.com/fish2018/lib/blob/main/教程/centos7.6部署TG搜索服务.md)  
