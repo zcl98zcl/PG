@@ -3,6 +3,8 @@
 ## 同步更新在线接口
 ```
 http://www.fish2018.ip-ddns.com/p/jsm.json
+http://www2.fish2018.ip-ddns.com/p/jsm.json
+http://www3.fish2018.ip-ddns.com/p/jsm.json
 ```
 - 选择主页可以查看当前PG包版本  
 - 在线接口已经默认集成了tgsearch的在线服务器，无需任何tg配置
@@ -19,6 +21,8 @@ http://www.fish2018.us.kg/p/jsm.json
 ## tgsearch服务器
 ```
 http://tg.fish2018.ip-ddns.com
+http://tg2.fish2018.ip-ddns.com
+http://tg3.fish2018.ip-ddns.com
 ```
 备用服务器
 ```
